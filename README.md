@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keshia-90
-- 👀 I’m interested in learning new things...python, html and css
+- 👀 I’m interested in learning new things...python, html, css, javascript
 - 🌱 I’m currently learning coding
 - 📫 How to reach me-LinkedIn 
 https://www.linkedin.com/in/keshia-collins-633883236
